@@ -5,9 +5,15 @@ import os
 
 url = "http://badigit.comune.bologna.it/books/%s/big/%03d.jpg"
 books = [
-'dolfi',
-'B4362',
-'zanti',
+	'dolfi',
+	'B4362',
+	'zanti',
+	'16QIV31',
+	'16QII18',
+	'pizzi',
+	'16QV1tarocchi',
+	'16aI39Carracci',
+	'ugobassi'
 ]
 
 pages = xrange(1, 1000)
